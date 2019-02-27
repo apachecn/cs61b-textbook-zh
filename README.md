@@ -28,6 +28,7 @@
 ### 负责人
 
 * [@飞龙](https://github.com/wizardforcel): 562826179
+* [@huangxiaohui8](https://github.com/huangxiaohui8): 867524747
 
 ### 贡献者
 
