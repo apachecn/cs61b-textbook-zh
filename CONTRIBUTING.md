@@ -4,7 +4,7 @@
 
 原文：
 
-+   [在线阅读](https://apachecn.github.io/cs61b-textbook-zh/en/)
++   [HTML](https://github.com/apachecn/cs61b-textbook-zh/blob/master/en/index.html)
 +   [PDF](http://inst.eecs.berkeley.edu/~cs61b/fa17/materials/book2/data-structures.pdf)
 
 负责人：
