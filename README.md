@@ -2,6 +2,8 @@
 
 > 原书：[Data Structures Into Java](http://inst.eecs.berkeley.edu/~cs61b/fa17/materials/book2/data-structures.pdf)
 > 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+> 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
 * [ApacheCN LeetCode 刷题群 812791932](http://qm.qq.com/cgi-bin/qm/qr?k=O4wL2pA1LJEArhZ02mI-_YLn4gQFaQjK)
