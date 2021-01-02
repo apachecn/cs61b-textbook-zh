@@ -4,7 +4,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 在水上行走和按需求文档开发软件都很容易——前提是它们都是冻结状态。——Edward V Berard
 
 * [ApacheCN LeetCode 刷题群 812791932](http://qm.qq.com/cgi-bin/qm/qr?k=O4wL2pA1LJEArhZ02mI-_YLn4gQFaQjK)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
